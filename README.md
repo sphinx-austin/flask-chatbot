@@ -9,8 +9,8 @@ This repo currently contains the starter files.
 
 Clone repo and create a virtual environment
 ```
-$ git clone https://github.com/python-engineer/chatbot-deployment.git
-$ cd chatbot-deployment
+$ https://github.com/sphinx-austin/flask-chatbot.git
+$ cd flask-chatbot
 $ python3 -m venv venv
 $ . venv/bin/activate
 ```
@@ -18,7 +18,8 @@ Install dependencies
 ```
 $ (venv) pip install Flask torch torchvision nltk
 ```
-Install nltk package
+OR
+Install all dependencies
 ```
 $ (venv) pip install -r requirements.txt
 ```
